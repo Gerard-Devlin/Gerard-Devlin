@@ -1,7 +1,7 @@
 ## Hi there 👋
----
+
 This is Devlin.
----
+
 ### Languages
 
 [![languages](https://skillicons.dev/icons?i=js,html,css,js,python,c,cpp,latex,py,java,linux,django,mysql,md)](https://skillicons.dev)
