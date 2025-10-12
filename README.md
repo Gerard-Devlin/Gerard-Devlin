@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is Devlin.
+This is Devlin. A passionate programmer from Shanghai.
 
 <div align="center">
   
