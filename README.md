@@ -4,9 +4,10 @@
 
 <div align="center">
   
-[![Devlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerard-Devlin&anuraghazra&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gerard-Devlin&theme=calm-pink&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerard-Devlin&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gerard-Devlin&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gerard-Devlin&theme=discord_old_blurple)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerard-Devlin&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gerard-Devlin&theme=discord_old_blurple&utcOffset=8)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gerard-Devlin&theme=calm-pink&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 
