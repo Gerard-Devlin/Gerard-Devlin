@@ -2,14 +2,14 @@
 
 <h2 align='center'>This is Devlin. A passionate programmer from Shanghai.</h2>
 
-<div align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerard-Devlin&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gerard-Devlin&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerard-Devlin&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gerard-Devlin&theme=monokai&utcOffset=8)
+<!-- <div align="center"> -->
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerard-Devlin&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gerard-Devlin&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gerard-Devlin&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerard-Devlin&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gerard-Devlin&theme=github_dark&utcOffset=8)
 
-</div>
+<!-- </div> -->
 
 
 ### 📌 Languages
