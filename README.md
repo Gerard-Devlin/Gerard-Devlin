@@ -7,7 +7,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerard-Devlin&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gerard-Devlin&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gerard-Devlin&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerard-Devlin&theme=discord_old_blurple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gerard-Devlin&theme=monokai&utcOffset=8)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gerard-Devlin&theme=monokai&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gerard-Devlin&theme=monokai&utcOffset=8)
 </div>
 
 
