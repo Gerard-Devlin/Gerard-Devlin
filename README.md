@@ -8,6 +8,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gerard-Devlin&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerard-Devlin&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gerard-Devlin&theme=monokai&utcOffset=8)
+
 </div>
 
 
