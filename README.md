@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<h2 align='center'>This is Devlin. A passionate programmer from Shanghai.</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=24F78F&width=469&lines=I'm+Devlin.;A+passionate+programmer+from+Shanghai.)](https://git.io/typing-svg)
 
 <div align="center">
   
