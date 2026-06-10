@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=24F78F&width=469&lines=I'm+Devlin.;A+passionate+programmer+from+Shanghai.)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B92E&width=700&lines=An+undergraduate+student+majoring+in+Computer+Science.)](https://git.io/typing-svg)
+
 <div align="center">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerard-Devlin&theme=blueberry)
