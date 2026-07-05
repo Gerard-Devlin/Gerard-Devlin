@@ -1,34 +1,44 @@
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=24F78F&width=469&lines=I'm+Devlin.;A+passionate+programmer+from+Shanghai.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&pause=1000&color=24F78F&width=469&lines=I%27m+Devlin.;A+passionate+programmer+from+Shanghai.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B92E&width=700&lines=An+undergraduate+student+majoring+in+Computer+Science.)](https://git.io/typing-svg)
+### 📫 Contact Me
 
-<div align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerard-Devlin&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gerard-Devlin&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gerard-Devlin&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerard-Devlin&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gerard-Devlin&theme=blueberry&utcOffset=8)
+[![GitHub](https://img.shields.io/badge/GitHub-Gerard--Devlin-181717?style=for-the-badge&logo=github)](https://github.com/Gerard-Devlin)
+[![Email](https://img.shields.io/badge/Email-alwenxuyouwen@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alwenxuyouwen@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-TechMind-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://cslearner.xyz/)
 
-</div>
+![img](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerard-Devlin&theme=blueberry)
+![img](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gerard-Devlin&theme=blueberry)
+![img](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gerard-Devlin&theme=blueberry)
+![img](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerard-Devlin&theme=blueberry)
+![img](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gerard-Devlin&theme=blueberry&utcOffset=8)
 
+------
+
+### 🔬 Research Interests
+
+- **LLM Acceleration**
+- **Efficient Inference**
+- **Multimodal Large Models**
+- **AI for Scientific**
+
+I am currently interested in practical acceleration methods for large language models and multimodal models, especially inference-side optimization, token-level compression, and efficient AI systems.
+
+------
+
+### 🚀 Representative Works
+
+#### [ClaudePrism](https://github.com/delibae/claude-prism)
+
+An **offline-first scientific writing workspace**, designed for researchers and students working with LaTeX, Python, and scientific documents.
+
+------
 
 ### 📌 Languages
-<div align="left">
-  
-  [![languages](https://skillicons.dev/icons?i=js,html,css,js,python,c,cpp,latex,py,java,linux,django,mysql,md)](https://skillicons.dev)
-</div>
 
+[![languages](https://skillicons.dev/icons?i=react,electron,py,cpp,latex,linux,django,mysql,git)](https://skillicons.dev/)
 
-### 🧭 Software & Platforms
-<div align="left">
-  
-  [![Software and Platforms](https://skillicons.dev/icons?i=clion,idea,vscode,pycharm,ps,ae,pr,stackoverflow,git)](https://skillicons.dev)
-</div>
-
-
----
+------
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gerard-Devlin&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
