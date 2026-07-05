@@ -29,13 +29,14 @@ I am currently interested in practical acceleration methods for large language m
 
 ### 🚀 Representative Works
 
-#### [ClaudePrism](https://github.com/delibae/claude-prism) [![GitHub Repo stars](https://img.shields.io/github/stars/delibae/claude-prism?style=for-the-badge&logo=github)](https://github.com/delibae/claude-prism/stargazers)
+#### [ClaudePrism](https://github.com/delibae/claude-prism)
+[![GitHub Repo stars](https://img.shields.io/github/stars/delibae/claude-prism?style=for-the-badge&logo=github)](https://github.com/delibae/claude-prism/stargazers)
 
 An **offline-first scientific writing workspace**, designed for researchers and students working with LaTeX, Python, and scientific documents.
 
 ------
 
-### 📌 Languages
+### 📌 Skills
 
 [![languages](https://skillicons.dev/icons?i=react,electron,py,cpp,latex,linux,mysql,git)](https://skillicons.dev/)
 
