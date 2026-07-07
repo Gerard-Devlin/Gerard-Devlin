@@ -5,8 +5,7 @@
 ### 📫 Contact Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Gerard--Devlin-181717?style=for-the-badge&logo=github)](https://github.com/Gerard-Devlin)
-[![Email](https://img.shields.io/badge/Email-alwenxuyouwen@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alwenxuyouwen@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-TechMind-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://cslearner.xyz/)
+[![Email](https://img.shields.io/badge/Email-Devlin-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alwenxuyouwen@gmail.com)
 
 ![img](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerard-Devlin&theme=blueberry)
 ![img](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gerard-Devlin&theme=blueberry)
