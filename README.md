@@ -1,8 +1,8 @@
-# Hi there 👋
+<h1 align="center"> Hi there 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&pause=1000&color=24F78F&width=469&lines=I%27m+Devlin.;A+passionate+programmer+from+Shanghai.)](https://git.io/typing-svg)
 
-### 📫 Contact Me
+### 💌 Contact Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Gerard--Devlin-181717?style=for-the-badge&logo=github)](https://github.com/Gerard-Devlin)
 [![Email](https://img.shields.io/badge/Email-Devlin-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alwenxuyouwen@gmail.com)
@@ -13,16 +13,6 @@
 ![img](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerard-Devlin&theme=blueberry)
 ![img](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gerard-Devlin&theme=blueberry&utcOffset=8)
 
-------
-
-### 🔬 Research Interests
-
-- **LLM Acceleration**
-- **Efficient Inference**
-- **Multimodal Large Models**
-- **AI for Scientific**
-
-I am currently interested in practical acceleration methods for large language models and multimodal models, especially inference-side optimization, token-level compression, and efficient AI systems.
 
 ------
 
