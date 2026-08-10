@@ -27,7 +27,7 @@ An **offline-first scientific writing workspace**, designed for researchers and 
 
 ### 📌 Skills
 
-[![languages](https://skillicons.dev/icons?i=react,electron,py,cpp,latex,linux,mysql,git)](https://skillicons.dev/)
+[![languages](https://skillicons.dev/icons?i=pytorch,react,electron,py,cpp,latex,linux,mysql,git)](https://skillicons.dev/)
 
 ------
 
