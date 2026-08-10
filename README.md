@@ -4,8 +4,16 @@
 
 ### 💌 Contact Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Gerard--Devlin-181717?style=for-the-badge&logo=github)](https://github.com/Gerard-Devlin)
+[![GitHub](https://img.shields.io/badge/GitHub-De-181717?style=for-the-badge&logo=github)](https://github.com/Gerard-Devlin)
 [![Email](https://img.shields.io/badge/Email-Devlin-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alwenxuyouwen@gmail.com)
+
+------
+
+### 📌 Skills
+
+[![languages](https://skillicons.dev/icons?i=pytorch,py,docker,react,electron,cpp,latex,linux,mysql,git)](https://skillicons.dev/)
+
+------
 
 ![img](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerard-Devlin&theme=blueberry)
 ![img](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gerard-Devlin&theme=blueberry)
@@ -22,12 +30,6 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/delibae/claude-prism?style=for-the-badge&logo=github)](https://github.com/delibae/claude-prism/stargazers)
 
 An **offline-first scientific writing workspace**, designed for researchers and students working with LaTeX, Python, and scientific documents.
-
-------
-
-### 📌 Skills
-
-[![languages](https://skillicons.dev/icons?i=pytorch,py,docker,react,electron,cpp,latex,linux,mysql,git)](https://skillicons.dev/)
 
 ------
 
