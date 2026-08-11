@@ -23,8 +23,7 @@
 
 ### 🚀 Selected Works
 
-#### [ClaudePrism](https://github.com/delibae/claude-prism)
-[![GitHub Repo stars](https://img.shields.io/github/stars/delibae/claude-prism?style=for-the-badge&logo=github)](https://github.com/delibae/claude-prism/stargazers)
+#### [ClaudePrism](https://github.com/delibae/claude-prism) [![GitHub Repo stars](https://img.shields.io/github/stars/delibae/claude-prism?style=social)](https://github.com/delibae/claude-prism/stargazers)
 
 An **offline-first scientific writing workspace** designed for researchers and students working with LaTeX, Python, and scientific documents.
 
@@ -47,17 +46,23 @@ I enjoy building tools at the intersection of **AI, research, and developer expe
 
 Feel free to reach out for discussions about **multimodal AI, efficient inference**, AI agents, or research collaboration.
 
-[![GitHub](https://img.shields.io/badge/GitHub-De-181717?style=for-the-badge&logo=github)](https://github.com/Gerard-Devlin)
-[![Email](https://img.shields.io/badge/Email-Devlin-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alwenxuyouwen@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-De-181717?style=flat-square&logo=github)](https://github.com/Gerard-Devlin)
+[![Email](https://img.shields.io/badge/Email-Devlin-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alwenxuyouwen@gmail.com)
 
 ------
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerard-Devlin&theme=blueberry" />
 
-![img](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerard-Devlin&theme=blueberry)
-![img](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gerard-Devlin&theme=blueberry)
-![img](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gerard-Devlin&theme=blueberry)
-![img](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerard-Devlin&theme=blueberry)
-![img](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gerard-Devlin&theme=blueberry&utcOffset=8)
+  <br>
 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gerard-Devlin&theme=blueberry" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gerard-Devlin&theme=blueberry" />
+
+  <br>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerard-Devlin&theme=blueberry" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gerard-Devlin&theme=blueberry&utcOffset=8" />
+</div>
 
 ------
 
