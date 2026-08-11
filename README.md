@@ -50,17 +50,17 @@ Feel free to reach out for discussions on **Video LLMs, efficient multimodal inf
 
 ------
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerard-Devlin&theme=blueberry" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerard-Devlin&theme=github_dark" />
 
   <br>
 
   <br>
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerard-Devlin&theme=blueberry" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerard-Devlin&theme=github_dark" />
   &nbsp;&nbsp;&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gerard-Devlin&theme=blueberry&utcOffset=8" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gerard-Devlin&theme=github_dark&utcOffset=8" />
 </div>
 
 ------
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gerard-Devlin&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gerard-Devlin&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
