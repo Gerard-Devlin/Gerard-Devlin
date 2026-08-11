@@ -42,10 +42,12 @@ I enjoy building tools at the intersection of **AI, research, and developer expe
 
 ### 💌 Contact Me
 
-Feel free to reach out for discussions about **multimodal AI, efficient inference**, AI agents, or research collaboration.
 
 [![GitHub](https://img.shields.io/badge/GitHub-De-181717?style=flat-square&logo=github)](https://github.com/Gerard-Devlin)
 [![Email](https://img.shields.io/badge/Email-Devlin-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alwenxuyouwen@gmail.com)
+
+Feel free to reach out for discussions about **multimodal AI, efficient inference**, AI agents, or research collaboration.
+
 
 ------
 <div align="center">
