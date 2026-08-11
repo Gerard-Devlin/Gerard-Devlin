@@ -26,8 +26,6 @@
 
 An **offline-first scientific writing workspace** designed for researchers and students working with LaTeX, Python, and scientific documents.
 
-ClaudePrism brings writing, computation, document management, and AI-assisted research workflows into a unified local workspace.
-
 - Offline-first research workflow
 - LaTeX and scientific document support
 - Python-integrated experimentation
