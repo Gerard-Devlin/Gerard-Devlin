@@ -23,6 +23,8 @@
 
 #### [ClaudePrism](https://github.com/delibae/claude-prism) [![GitHub Repo stars](https://img.shields.io/github/stars/delibae/claude-prism?style=social)](https://github.com/delibae/claude-prism/stargazers)
 
+![License](https://img.shields.io/github/license/delibae/claude-prism?style=flat-square)
+
 An **offline-first scientific writing workspace** designed for researchers and students working with LaTeX, Python, and scientific documents.
 
 ClaudePrism brings writing, computation, document management, and AI-assisted research workflows into a unified local workspace.
