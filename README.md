@@ -1,7 +1,6 @@
 <h1 align="center"> Hi there 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&pause=1000&color=24F78F&width=469&lines=I%27m+Devlin.;A+passionate+programmer+from+Shanghai.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=1000&lines=I'm+Devlin.;An+undergraduate+researcher+working+on+multimodal+AI+and+efficient+inference.)](https://git.io/typing-svg)
 
 ------
 
