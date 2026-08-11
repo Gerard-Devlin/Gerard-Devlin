@@ -7,11 +7,9 @@
 
 ### 🔬 Research Interests
 
-* Large Language Models and Multimodal LLMs
+* LLMs and MLLMs
 * Agentic Reasoning and Multi-Agent Systems
 * Efficient Multimodal Inference and Optimization
-* Knowledge Extraction from Academic Literature
-
 
 ------
 
