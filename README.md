@@ -19,7 +19,7 @@
 
 ------
 
-### 🚀 Selected Works
+### 🛠️ Selected Works
 
 #### [ClaudePrism](https://github.com/delibae/claude-prism) [![GitHub Repo stars](https://img.shields.io/github/stars/delibae/claude-prism?style=social)](https://github.com/delibae/claude-prism/stargazers)
 
@@ -38,7 +38,7 @@ ClaudePrism brings writing, computation, document management, and AI-assisted re
 
 ### 🌱 Beyond Research
 
-I enjoy building tools at the intersection of **AI, research, and developer experienc**e, especially systems that make complex technical workflows simpler and more effective.
+I enjoy building research tools and developer systems at the intersection of **AI, scientific computing, and human-computer interaction.**
 
 ------
 
@@ -48,7 +48,7 @@ I enjoy building tools at the intersection of **AI, research, and developer expe
 [![GitHub](https://img.shields.io/badge/GitHub-De-181717?style=flat-square&logo=github)](https://github.com/Gerard-Devlin)
 [![Email](https://img.shields.io/badge/Email-Devlin-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alwenxuyouwen@gmail.com)
 
-Feel free to reach out for discussions about **multimodal AI, efficient inference**, AI agents, or research collaboration.
+Feel free to reach out for discussions on **Video LLMs, efficient multimodal inference, AI agents, or research collaboration.**
 
 
 ------
