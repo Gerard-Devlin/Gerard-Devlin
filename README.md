@@ -54,12 +54,10 @@ Feel free to reach out for discussions on **Video LLMs, efficient multimodal inf
 
   <br>
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gerard-Devlin&theme=blueberry" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gerard-Devlin&theme=blueberry" />
-
   <br>
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerard-Devlin&theme=blueberry" />
+  &nbsp;&nbsp;&nbsp;
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gerard-Devlin&theme=blueberry&utcOffset=8" />
 </div>
 
