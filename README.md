@@ -67,11 +67,4 @@ Feel free to reach out for discussions on **Video LLMs, efficient multimodal inf
     width="420"
   />
 
-  
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Gerard-Devlin&theme=github-compact"
-    width="850"
-  />
-
 </div>
